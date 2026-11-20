@@ -1,0 +1,4510 @@
+NETWORK PACKET SNIFFER LOG
+Capture Started: 2026-11-20 14:13:36
+
+[+] Packet Capture Started
+----------------------------------------
+Time: 2026-11-20 14:13:36
+Packet Number: 1
+Source IP: 10.98.207.72
+Destination IP: 74.151.238.129
+Protocol: TCP
+Source Port: 50808
+Destination Port: 443
+Packet Size: 382 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:36
+Packet Number: 2
+Source IP: 10.98.207.72
+Destination IP: 74.151.238.129
+Protocol: TCP
+Source Port: 50806
+Destination Port: 443
+Packet Size: 382 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:36
+Packet Number: 3
+Source IP: 10.98.207.72
+Destination IP: 74.151.238.129
+Protocol: TCP
+Source Port: 50807
+Destination Port: 443
+Packet Size: 382 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:36
+Packet Number: 4
+Source IP: 10.98.207.72
+Destination IP: 74.151.238.129
+Protocol: TCP
+Source Port: 50809
+Destination Port: 443
+Packet Size: 382 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:36
+Packet Number: 5
+Source IP: 10.98.207.72
+Destination IP: 74.151.238.129
+Protocol: TCP
+Source Port: 50810
+Destination Port: 443
+Packet Size: 382 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:36
+Packet Number: 6
+Source IP: 10.98.207.72
+Destination IP: 74.151.238.129
+Protocol: TCP
+Source Port: 50811
+Destination Port: 443
+Packet Size: 382 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:36
+Packet Number: 7
+Source IP: 10.98.207.72
+Destination IP: 74.151.238.129
+Protocol: TCP
+Source Port: 50812
+Destination Port: 443
+Packet Size: 41 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:36
+Packet Number: 8
+Source IP: 10.98.207.72
+Destination IP: 74.151.238.129
+Protocol: TCP
+Source Port: 50813
+Destination Port: 443
+Packet Size: 41 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:36
+Packet Number: 9
+Source IP: 10.98.207.72
+Destination IP: 74.151.238.129
+Protocol: TCP
+Source Port: 50813
+Destination Port: 443
+Packet Size: 382 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:36
+Packet Number: 10
+Source IP: 10.98.207.72
+Destination IP: 74.151.238.129
+Protocol: TCP
+Source Port: 50812
+Destination Port: 443
+Packet Size: 382 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:36
+Packet Number: 11
+Source IP: 10.98.207.72
+Destination IP: 74.151.238.129
+Protocol: TCP
+Source Port: 50808
+Destination Port: 443
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:36
+Packet Number: 12
+Source IP: 10.98.207.72
+Destination IP: 74.151.238.129
+Protocol: TCP
+Source Port: 50808
+Destination Port: 443
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:36
+Packet Number: 13
+Source IP: 10.98.207.72
+Destination IP: 74.151.238.129
+Protocol: TCP
+Source Port: 50806
+Destination Port: 443
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:36
+Packet Number: 14
+Source IP: 10.98.207.72
+Destination IP: 74.151.238.129
+Protocol: TCP
+Source Port: 50806
+Destination Port: 443
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:36
+Packet Number: 15
+Source IP: 10.98.207.72
+Destination IP: 74.151.238.129
+Protocol: TCP
+Source Port: 50806
+Destination Port: 443
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:36
+Packet Number: 16
+Source IP: 10.98.207.72
+Destination IP: 74.151.238.129
+Protocol: TCP
+Source Port: 50808
+Destination Port: 443
+Packet Size: 1883 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:36
+Packet Number: 17
+Source IP: 10.98.207.72
+Destination IP: 74.151.238.129
+Protocol: TCP
+Source Port: 50807
+Destination Port: 443
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:37
+Packet Number: 18
+Source IP: 10.98.207.72
+Destination IP: 74.151.238.129
+Protocol: TCP
+Source Port: 50806
+Destination Port: 443
+Packet Size: 1887 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:37
+Packet Number: 19
+Source IP: 10.98.207.72
+Destination IP: 74.151.238.129
+Protocol: TCP
+Source Port: 50807
+Destination Port: 443
+Packet Size: 52 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:37
+Packet Number: 20
+Source IP: 10.98.207.72
+Destination IP: 74.151.238.129
+Protocol: TCP
+Source Port: 50807
+Destination Port: 443
+Packet Size: 52 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:37
+Packet Number: 21
+Source IP: 10.98.207.72
+Destination IP: 74.151.238.129
+Protocol: TCP
+Source Port: 50807
+Destination Port: 443
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:37
+Packet Number: 22
+Source IP: 10.98.207.72
+Destination IP: 74.151.238.129
+Protocol: TCP
+Source Port: 50807
+Destination Port: 443
+Packet Size: 1946 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:37
+Packet Number: 23
+Source IP: 10.98.207.72
+Destination IP: 74.151.238.129
+Protocol: TCP
+Source Port: 50810
+Destination Port: 443
+Packet Size: 52 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:37
+Packet Number: 24
+Source IP: 10.98.207.72
+Destination IP: 74.151.238.129
+Protocol: TCP
+Source Port: 50810
+Destination Port: 443
+Packet Size: 52 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:37
+Packet Number: 25
+Source IP: 10.98.207.72
+Destination IP: 74.151.238.129
+Protocol: TCP
+Source Port: 50810
+Destination Port: 443
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:37
+Packet Number: 26
+Source IP: 10.98.207.72
+Destination IP: 74.151.238.129
+Protocol: TCP
+Source Port: 50810
+Destination Port: 443
+Packet Size: 1884 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:37
+Packet Number: 27
+Source IP: 10.98.207.72
+Destination IP: 74.151.238.129
+Protocol: TCP
+Source Port: 50809
+Destination Port: 443
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:37
+Packet Number: 28
+Source IP: 10.98.207.72
+Destination IP: 74.151.238.129
+Protocol: TCP
+Source Port: 50811
+Destination Port: 443
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:37
+Packet Number: 29
+Source IP: 10.98.207.72
+Destination IP: 74.151.238.129
+Protocol: TCP
+Source Port: 50811
+Destination Port: 443
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:37
+Packet Number: 30
+Source IP: 10.98.207.72
+Destination IP: 74.151.238.129
+Protocol: TCP
+Source Port: 50813
+Destination Port: 443
+Packet Size: 52 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:37
+Packet Number: 31
+Source IP: 10.98.207.72
+Destination IP: 74.151.238.129
+Protocol: TCP
+Source Port: 50813
+Destination Port: 443
+Packet Size: 52 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:37
+Packet Number: 32
+Source IP: 10.98.207.72
+Destination IP: 74.151.238.129
+Protocol: TCP
+Source Port: 50813
+Destination Port: 443
+Packet Size: 52 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:37
+Packet Number: 33
+Source IP: 10.98.207.72
+Destination IP: 74.151.238.129
+Protocol: TCP
+Source Port: 50813
+Destination Port: 443
+Packet Size: 52 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:37
+Packet Number: 34
+Source IP: 10.98.207.72
+Destination IP: 74.151.238.129
+Protocol: TCP
+Source Port: 50813
+Destination Port: 443
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:37
+Packet Number: 35
+Source IP: 10.98.207.72
+Destination IP: 74.151.238.129
+Protocol: TCP
+Source Port: 50809
+Destination Port: 443
+Packet Size: 1885 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:37
+Packet Number: 36
+Source IP: 10.98.207.72
+Destination IP: 74.151.238.129
+Protocol: TCP
+Source Port: 50811
+Destination Port: 443
+Packet Size: 1884 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:37
+Packet Number: 37
+Source IP: 10.98.207.72
+Destination IP: 74.151.238.129
+Protocol: TCP
+Source Port: 50813
+Destination Port: 443
+Packet Size: 1885 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:37
+Packet Number: 38
+Source IP: 10.98.207.72
+Destination IP: 74.151.238.129
+Protocol: TCP
+Source Port: 50812
+Destination Port: 443
+Packet Size: 52 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:37
+Packet Number: 39
+Source IP: 10.98.207.72
+Destination IP: 74.151.238.129
+Protocol: TCP
+Source Port: 50812
+Destination Port: 443
+Packet Size: 52 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:37
+Packet Number: 40
+Source IP: 10.98.207.72
+Destination IP: 74.151.238.129
+Protocol: TCP
+Source Port: 50812
+Destination Port: 443
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:37
+Packet Number: 41
+Source IP: 10.98.207.72
+Destination IP: 74.151.238.129
+Protocol: TCP
+Source Port: 50812
+Destination Port: 443
+Packet Size: 1885 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:37
+Packet Number: 42
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 54604
+Destination Port: 53
+Packet Size: 52 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:37
+Packet Number: 43
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 49957
+Destination Port: 53
+Packet Size: 52 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:37
+Packet Number: 44
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 65429
+Destination Port: 53
+Packet Size: 52 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:37
+Packet Number: 45
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 54604
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:37
+Packet Number: 46
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 54604
+Destination Port: 53
+Packet Size: 42 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:37
+Packet Number: 47
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 54604
+Destination Port: 53
+Packet Size: 90 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:37
+Packet Number: 48
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 49957
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:37
+Packet Number: 49
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 49957
+Destination Port: 53
+Packet Size: 42 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:37
+Packet Number: 50
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 49957
+Destination Port: 53
+Packet Size: 90 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:37
+Packet Number: 51
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 65429
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:37
+Packet Number: 52
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 65429
+Destination Port: 53
+Packet Size: 42 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:37
+Packet Number: 53
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 65429
+Destination Port: 53
+Packet Size: 90 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:37
+Packet Number: 54
+Source IP: 10.98.207.72
+Destination IP: 74.151.238.129
+Protocol: TCP
+Source Port: 50808
+Destination Port: 443
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:37
+Packet Number: 55
+Source IP: 10.98.207.72
+Destination IP: 74.151.238.129
+Protocol: TCP
+Source Port: 50808
+Destination Port: 443
+Packet Size: 64 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:37
+Packet Number: 56
+Source IP: 10.98.207.72
+Destination IP: 74.151.238.129
+Protocol: TCP
+Source Port: 50808
+Destination Port: 443
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:37
+Packet Number: 57
+Source IP: 10.98.207.72
+Destination IP: 74.151.238.129
+Protocol: TCP
+Source Port: 50806
+Destination Port: 443
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:37
+Packet Number: 58
+Source IP: 10.98.207.72
+Destination IP: 74.151.238.129
+Protocol: TCP
+Source Port: 50806
+Destination Port: 443
+Packet Size: 64 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:37
+Packet Number: 59
+Source IP: 10.98.207.72
+Destination IP: 74.151.238.129
+Protocol: TCP
+Source Port: 50806
+Destination Port: 443
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:37
+Packet Number: 60
+Source IP: 10.98.207.72
+Destination IP: 74.151.238.129
+Protocol: TCP
+Source Port: 50810
+Destination Port: 443
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:37
+Packet Number: 61
+Source IP: 10.98.207.72
+Destination IP: 74.151.238.129
+Protocol: TCP
+Source Port: 50810
+Destination Port: 443
+Packet Size: 64 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:37
+Packet Number: 62
+Source IP: 10.98.207.72
+Destination IP: 74.151.238.129
+Protocol: TCP
+Source Port: 50810
+Destination Port: 443
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:37
+Packet Number: 63
+Source IP: 10.98.207.72
+Destination IP: 74.151.238.129
+Protocol: TCP
+Source Port: 50807
+Destination Port: 443
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:37
+Packet Number: 64
+Source IP: 10.98.207.72
+Destination IP: 74.151.238.129
+Protocol: TCP
+Source Port: 50807
+Destination Port: 443
+Packet Size: 64 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:37
+Packet Number: 65
+Source IP: 10.98.207.72
+Destination IP: 74.151.238.129
+Protocol: TCP
+Source Port: 50807
+Destination Port: 443
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:37
+Packet Number: 66
+Source IP: 10.98.207.72
+Destination IP: 74.151.238.129
+Protocol: TCP
+Source Port: 50811
+Destination Port: 443
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:37
+Packet Number: 67
+Source IP: 10.98.207.72
+Destination IP: 74.151.238.129
+Protocol: TCP
+Source Port: 50811
+Destination Port: 443
+Packet Size: 64 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:37
+Packet Number: 68
+Source IP: 10.98.207.72
+Destination IP: 74.151.238.129
+Protocol: TCP
+Source Port: 50811
+Destination Port: 443
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:37
+Packet Number: 69
+Source IP: 10.98.207.72
+Destination IP: 74.151.238.129
+Protocol: TCP
+Source Port: 50809
+Destination Port: 443
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:37
+Packet Number: 70
+Source IP: 10.98.207.72
+Destination IP: 74.151.238.129
+Protocol: TCP
+Source Port: 50809
+Destination Port: 443
+Packet Size: 64 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:37
+Packet Number: 71
+Source IP: 10.98.207.72
+Destination IP: 74.151.238.129
+Protocol: TCP
+Source Port: 50809
+Destination Port: 443
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:37
+Packet Number: 72
+Source IP: 10.98.207.72
+Destination IP: 74.151.238.129
+Protocol: TCP
+Source Port: 50813
+Destination Port: 443
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:37
+Packet Number: 73
+Source IP: 10.98.207.72
+Destination IP: 74.151.238.129
+Protocol: TCP
+Source Port: 50813
+Destination Port: 443
+Packet Size: 64 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:37
+Packet Number: 74
+Source IP: 10.98.207.72
+Destination IP: 74.151.238.129
+Protocol: TCP
+Source Port: 50813
+Destination Port: 443
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:37
+Packet Number: 75
+Source IP: 10.98.207.72
+Destination IP: 74.151.238.129
+Protocol: TCP
+Source Port: 50812
+Destination Port: 443
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:37
+Packet Number: 76
+Source IP: 10.98.207.72
+Destination IP: 74.151.238.129
+Protocol: TCP
+Source Port: 50812
+Destination Port: 443
+Packet Size: 64 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:37
+Packet Number: 77
+Source IP: 10.98.207.72
+Destination IP: 74.151.238.129
+Protocol: TCP
+Source Port: 50812
+Destination Port: 443
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:37
+Packet Number: 78
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 65429
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:37
+Packet Number: 79
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 49957
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:37
+Packet Number: 80
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 54604
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:37
+Packet Number: 81
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 49957
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:37
+Packet Number: 82
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 54604
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:37
+Packet Number: 83
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 65429
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:37
+Packet Number: 84
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 65429
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:37
+Packet Number: 85
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 49957
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:37
+Packet Number: 86
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 54604
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:37
+Packet Number: 87
+Source IP: 10.98.207.72
+Destination IP: 54.175.47.2
+Protocol: TCP
+Source Port: 63666
+Destination Port: 443
+Packet Size: 52 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:37
+Packet Number: 88
+Source IP: 10.98.207.72
+Destination IP: 74.151.238.129
+Protocol: TCP
+Source Port: 63667
+Destination Port: 443
+Packet Size: 52 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:37
+Packet Number: 89
+Source IP: 10.98.207.72
+Destination IP: 74.151.238.129
+Protocol: TCP
+Source Port: 63668
+Destination Port: 443
+Packet Size: 52 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:37
+Packet Number: 90
+Source IP: 10.98.207.72
+Destination IP: 74.151.238.129
+Protocol: TCP
+Source Port: 63669
+Destination Port: 443
+Packet Size: 52 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:38
+Packet Number: 91
+Source IP: 10.98.207.72
+Destination IP: 172.67.156.181
+Protocol: TCP
+Source Port: 52557
+Destination Port: 443
+Packet Size: 68 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:38
+Packet Number: 92
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 59116
+Destination Port: 53
+Packet Size: 52 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:38
+Packet Number: 93
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 64750
+Destination Port: 53
+Packet Size: 52 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:38
+Packet Number: 94
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 59515
+Destination Port: 53
+Packet Size: 52 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:38
+Packet Number: 95
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 59116
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:38
+Packet Number: 96
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 59116
+Destination Port: 53
+Packet Size: 42 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:38
+Packet Number: 97
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 59116
+Destination Port: 53
+Packet Size: 72 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:38
+Packet Number: 98
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 64750
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:38
+Packet Number: 99
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 64750
+Destination Port: 53
+Packet Size: 42 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:38
+Packet Number: 100
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 59515
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:38
+Packet Number: 101
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 64750
+Destination Port: 53
+Packet Size: 72 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:38
+Packet Number: 102
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 59515
+Destination Port: 53
+Packet Size: 42 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:38
+Packet Number: 103
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 59515
+Destination Port: 53
+Packet Size: 72 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:38
+Packet Number: 104
+Source IP: 10.98.207.72
+Destination IP: 74.151.238.129
+Protocol: TCP
+Source Port: 59516
+Destination Port: 443
+Packet Size: 52 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:38
+Packet Number: 105
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 59515
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:38
+Packet Number: 106
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 64750
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:38
+Packet Number: 107
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 59116
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:38
+Packet Number: 108
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 64750
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:38
+Packet Number: 109
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 59515
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:38
+Packet Number: 110
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 59116
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:38
+Packet Number: 111
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 64750
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:38
+Packet Number: 112
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 59515
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:38
+Packet Number: 113
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 59116
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:38
+Packet Number: 114
+Source IP: 10.98.207.72
+Destination IP: 74.151.238.129
+Protocol: TCP
+Source Port: 59518
+Destination Port: 443
+Packet Size: 52 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:38
+Packet Number: 115
+Source IP: 10.98.207.72
+Destination IP: 74.151.238.129
+Protocol: TCP
+Source Port: 59520
+Destination Port: 443
+Packet Size: 52 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:38
+Packet Number: 116
+Source IP: 10.98.207.72
+Destination IP: 74.151.238.129
+Protocol: TCP
+Source Port: 59521
+Destination Port: 443
+Packet Size: 52 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:38
+Packet Number: 117
+Source IP: 10.98.207.72
+Destination IP: 74.151.238.129
+Protocol: TCP
+Source Port: 59522
+Destination Port: 443
+Packet Size: 52 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:38
+Packet Number: 118
+Source IP: 10.98.207.72
+Destination IP: 74.151.238.129
+Protocol: TCP
+Source Port: 59523
+Destination Port: 443
+Packet Size: 52 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:38
+Packet Number: 119
+Source IP: 10.98.207.72
+Destination IP: 74.151.238.129
+Protocol: TCP
+Source Port: 59524
+Destination Port: 443
+Packet Size: 52 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:38
+Packet Number: 120
+Source IP: 10.98.207.72
+Destination IP: 74.151.238.129
+Protocol: TCP
+Source Port: 59525
+Destination Port: 443
+Packet Size: 52 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:38
+Packet Number: 121
+Source IP: 10.98.207.72
+Destination IP: 74.151.238.129
+Protocol: TCP
+Source Port: 59526
+Destination Port: 443
+Packet Size: 52 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:38
+Packet Number: 122
+Source IP: 10.98.207.72
+Destination IP: 74.151.238.129
+Protocol: TCP
+Source Port: 59527
+Destination Port: 443
+Packet Size: 52 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:38
+Packet Number: 123
+Source IP: 10.98.207.72
+Destination IP: 74.151.238.129
+Protocol: TCP
+Source Port: 59528
+Destination Port: 443
+Packet Size: 52 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:38
+Packet Number: 124
+Source IP: 10.98.207.72
+Destination IP: 74.151.238.129
+Protocol: TCP
+Source Port: 59529
+Destination Port: 443
+Packet Size: 52 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:38
+Packet Number: 125
+Source IP: 10.98.207.72
+Destination IP: 74.151.238.129
+Protocol: TCP
+Source Port: 59530
+Destination Port: 443
+Packet Size: 52 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:38
+Packet Number: 126
+Source IP: 10.98.207.72
+Destination IP: 74.151.238.129
+Protocol: TCP
+Source Port: 59531
+Destination Port: 443
+Packet Size: 52 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:38
+Packet Number: 127
+Source IP: 10.98.207.72
+Destination IP: 74.151.238.129
+Protocol: TCP
+Source Port: 59532
+Destination Port: 443
+Packet Size: 52 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:38
+Packet Number: 128
+Source IP: 10.98.207.72
+Destination IP: 74.151.238.129
+Protocol: TCP
+Source Port: 59533
+Destination Port: 443
+Packet Size: 52 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:38
+Packet Number: 129
+Source IP: 149.102.231.164
+Destination IP: 10.98.207.72
+Protocol: UDP
+Source Port: 5001
+Destination Port: 51288
+Packet Size: 57 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:38
+Packet Number: 130
+Source IP: 10.98.207.72
+Destination IP: 74.151.238.129
+Protocol: TCP
+Source Port: 59534
+Destination Port: 443
+Packet Size: 52 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:38
+Packet Number: 131
+Source IP: 10.98.207.72
+Destination IP: 74.151.238.129
+Protocol: TCP
+Source Port: 59535
+Destination Port: 443
+Packet Size: 52 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:38
+Packet Number: 132
+Source IP: 10.98.207.72
+Destination IP: 74.151.238.129
+Protocol: TCP
+Source Port: 59536
+Destination Port: 443
+Packet Size: 52 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:38
+Packet Number: 133
+Source IP: 10.98.207.72
+Destination IP: 149.102.231.164
+Protocol: UDP
+Source Port: 51288
+Destination Port: 5001
+Packet Size: 61 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:39
+Packet Number: 134
+Source IP: 188.34.137.211
+Destination IP: 10.98.207.72
+Protocol: UDP
+Source Port: 5001
+Destination Port: 51286
+Packet Size: 57 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:39
+Packet Number: 135
+Source IP: 10.98.207.72
+Destination IP: 188.34.137.211
+Protocol: UDP
+Source Port: 51286
+Destination Port: 5001
+Packet Size: 61 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:40
+Packet Number: 136
+Source IP: 10.98.207.72
+Destination IP: 76.223.54.146
+Protocol: TCP
+Source Port: 52242
+Destination Port: 1688
+Packet Size: 52 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:43
+Packet Number: 137
+Source IP: 149.102.231.164
+Destination IP: 10.98.207.72
+Protocol: UDP
+Source Port: 5001
+Destination Port: 51288
+Packet Size: 93 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:43
+Packet Number: 138
+Source IP: 10.98.207.72
+Destination IP: 188.34.137.211
+Protocol: UDP
+Source Port: 51286
+Destination Port: 5001
+Packet Size: 91 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:43
+Packet Number: 139
+Source IP: 10.98.207.72
+Destination IP: 149.102.231.164
+Protocol: UDP
+Source Port: 51288
+Destination Port: 5001
+Packet Size: 61 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:43
+Packet Number: 140
+Source IP: 188.34.137.211
+Destination IP: 10.98.207.72
+Protocol: UDP
+Source Port: 5001
+Destination Port: 51286
+Packet Size: 66 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:43
+Packet Number: 141
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: UDP
+Source Port: 54925
+Destination Port: 53
+Packet Size: 84 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:43
+Packet Number: 142
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: UDP
+Source Port: 62311
+Destination Port: 53
+Packet Size: 84 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:43
+Packet Number: 143
+Source IP: 10.98.207.64
+Destination IP: 10.98.207.72
+Protocol: UDP
+Source Port: 53
+Destination Port: 54925
+Packet Size: 198 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:43
+Packet Number: 144
+Source IP: 10.98.207.64
+Destination IP: 10.98.207.72
+Protocol: UDP
+Source Port: 53
+Destination Port: 62311
+Packet Size: 210 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:43
+Packet Number: 145
+Source IP: 10.98.207.72
+Destination IP: 140.82.112.21
+Protocol: TCP
+Source Port: 59555
+Destination Port: 443
+Packet Size: 52 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:44
+Packet Number: 146
+Source IP: 10.98.207.72
+Destination IP: 140.82.112.21
+Protocol: TCP
+Source Port: 59557
+Destination Port: 443
+Packet Size: 52 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:45
+Packet Number: 147
+Source IP: 10.98.207.72
+Destination IP: 140.82.112.21
+Protocol: TCP
+Source Port: 59557
+Destination Port: 443
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:45
+Packet Number: 148
+Source IP: 10.98.207.72
+Destination IP: 140.82.112.21
+Protocol: TCP
+Source Port: 59557
+Destination Port: 443
+Packet Size: 557 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:45
+Packet Number: 149
+Source IP: 10.98.207.72
+Destination IP: 140.82.112.21
+Protocol: TCP
+Source Port: 59557
+Destination Port: 443
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:45
+Packet Number: 150
+Source IP: 10.98.207.72
+Destination IP: 140.82.112.21
+Protocol: TCP
+Source Port: 59557
+Destination Port: 443
+Packet Size: 52 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:45
+Packet Number: 151
+Source IP: 10.98.207.72
+Destination IP: 140.82.112.21
+Protocol: TCP
+Source Port: 59557
+Destination Port: 443
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:45
+Packet Number: 152
+Source IP: 10.98.207.72
+Destination IP: 140.82.112.21
+Protocol: TCP
+Source Port: 59557
+Destination Port: 443
+Packet Size: 11713 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:45
+Packet Number: 153
+Source IP: 10.98.207.72
+Destination IP: 140.82.112.21
+Protocol: TCP
+Source Port: 59557
+Destination Port: 443
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:46
+Packet Number: 154
+Source IP: 10.98.207.72
+Destination IP: 13.248.169.48
+Protocol: TCP
+Source Port: 59558
+Destination Port: 1688
+Packet Size: 52 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:46
+Packet Number: 155
+Source IP: 10.98.207.72
+Destination IP: 140.82.112.21
+Protocol: TCP
+Source Port: 59557
+Destination Port: 443
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:46
+Packet Number: 156
+Source IP: 10.98.207.72
+Destination IP: 140.82.112.21
+Protocol: TCP
+Source Port: 59557
+Destination Port: 443
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:46
+Packet Number: 157
+Source IP: 10.98.207.72
+Destination IP: 140.82.112.21
+Protocol: TCP
+Source Port: 59557
+Destination Port: 443
+Packet Size: 64 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:46
+Packet Number: 158
+Source IP: 10.98.207.72
+Destination IP: 140.82.112.21
+Protocol: TCP
+Source Port: 59557
+Destination Port: 443
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:46
+Packet Number: 159
+Source IP: 10.98.207.72
+Destination IP: 140.82.112.21
+Protocol: TCP
+Source Port: 59557
+Destination Port: 443
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:47
+Packet Number: 160
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 53451
+Destination Port: 53
+Packet Size: 52 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:47
+Packet Number: 161
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 56762
+Destination Port: 53
+Packet Size: 52 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:47
+Packet Number: 162
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 51934
+Destination Port: 53
+Packet Size: 52 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:47
+Packet Number: 163
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 53451
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:47
+Packet Number: 164
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 53451
+Destination Port: 53
+Packet Size: 42 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:47
+Packet Number: 165
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 53451
+Destination Port: 53
+Packet Size: 72 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:47
+Packet Number: 166
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 56762
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:47
+Packet Number: 167
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 56762
+Destination Port: 53
+Packet Size: 42 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:47
+Packet Number: 168
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 56762
+Destination Port: 53
+Packet Size: 72 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:47
+Packet Number: 169
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 51934
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:47
+Packet Number: 170
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 51934
+Destination Port: 53
+Packet Size: 42 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:47
+Packet Number: 171
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 51934
+Destination Port: 53
+Packet Size: 72 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:47
+Packet Number: 172
+Source IP: 10.98.207.72
+Destination IP: 13.248.169.48
+Protocol: TCP
+Source Port: 59558
+Destination Port: 1688
+Packet Size: 52 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:47
+Packet Number: 173
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 52115
+Destination Port: 53
+Packet Size: 52 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:47
+Packet Number: 174
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 60703
+Destination Port: 53
+Packet Size: 52 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:47
+Packet Number: 175
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 53833
+Destination Port: 53
+Packet Size: 52 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:47
+Packet Number: 176
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 52115
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:47
+Packet Number: 177
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 52115
+Destination Port: 53
+Packet Size: 42 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:47
+Packet Number: 178
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 52115
+Destination Port: 53
+Packet Size: 92 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:47
+Packet Number: 179
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 60703
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:47
+Packet Number: 180
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 60703
+Destination Port: 53
+Packet Size: 42 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:47
+Packet Number: 181
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 60703
+Destination Port: 53
+Packet Size: 92 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:47
+Packet Number: 182
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 53833
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:47
+Packet Number: 183
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 53833
+Destination Port: 53
+Packet Size: 42 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:47
+Packet Number: 184
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 53833
+Destination Port: 53
+Packet Size: 92 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:47
+Packet Number: 185
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 53451
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:47
+Packet Number: 186
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 53451
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:47
+Packet Number: 187
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 53451
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:47
+Packet Number: 188
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 56762
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:48
+Packet Number: 189
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 51934
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:48
+Packet Number: 190
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 56762
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:48
+Packet Number: 191
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 51934
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:48
+Packet Number: 192
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 56762
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:48
+Packet Number: 193
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 51934
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:48
+Packet Number: 194
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 60703
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:48
+Packet Number: 195
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 60703
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:48
+Packet Number: 196
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 60703
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:48
+Packet Number: 197
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 53833
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:48
+Packet Number: 198
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 52115
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:48
+Packet Number: 199
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 53833
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:48
+Packet Number: 200
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 52115
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:48
+Packet Number: 201
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 53833
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:48
+Packet Number: 202
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 52115
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:49
+Packet Number: 203
+Source IP: 10.98.207.72
+Destination IP: 172.67.156.181
+Protocol: TCP
+Source Port: 52557
+Destination Port: 443
+Packet Size: 68 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:49
+Packet Number: 204
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 57606
+Destination Port: 53
+Packet Size: 52 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:49
+Packet Number: 205
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 62453
+Destination Port: 53
+Packet Size: 52 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:49
+Packet Number: 206
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 49363
+Destination Port: 53
+Packet Size: 52 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:49
+Packet Number: 207
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 57606
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:49
+Packet Number: 208
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 57606
+Destination Port: 53
+Packet Size: 42 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:49
+Packet Number: 209
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 57606
+Destination Port: 53
+Packet Size: 67 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:49
+Packet Number: 210
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 62453
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:49
+Packet Number: 211
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 49363
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:49
+Packet Number: 212
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 62453
+Destination Port: 53
+Packet Size: 42 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:49
+Packet Number: 213
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 62453
+Destination Port: 53
+Packet Size: 67 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:49
+Packet Number: 214
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 49363
+Destination Port: 53
+Packet Size: 42 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:49
+Packet Number: 215
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 49363
+Destination Port: 53
+Packet Size: 67 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:49
+Packet Number: 216
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 57606
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:49
+Packet Number: 217
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 62453
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:49
+Packet Number: 218
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 57606
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:49
+Packet Number: 219
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 62453
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:49
+Packet Number: 220
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 57606
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:49
+Packet Number: 221
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 62453
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:49
+Packet Number: 222
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 49363
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:49
+Packet Number: 223
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 49363
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:49
+Packet Number: 224
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 49363
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:49
+Packet Number: 225
+Source IP: 10.98.207.72
+Destination IP: 13.248.169.48
+Protocol: TCP
+Source Port: 59558
+Destination Port: 1688
+Packet Size: 52 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:52
+Packet Number: 226
+Source IP: 10.98.207.230
+Destination IP: 224.0.0.251
+Protocol: UDP
+Source Port: 5353
+Destination Port: 5353
+Packet Size: 89 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:53
+Packet Number: 227
+Source IP: 10.98.207.72
+Destination IP: 172.67.156.181
+Protocol: TCP
+Source Port: 52557
+Destination Port: 443
+Packet Size: 68 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:53
+Packet Number: 228
+Source IP: 149.102.231.164
+Destination IP: 10.98.207.72
+Protocol: UDP
+Source Port: 5001
+Destination Port: 51288
+Packet Size: 57 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:53
+Packet Number: 229
+Source IP: 10.98.207.72
+Destination IP: 149.102.231.164
+Protocol: UDP
+Source Port: 51288
+Destination Port: 5001
+Packet Size: 61 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:53
+Packet Number: 230
+Source IP: 188.34.137.211
+Destination IP: 10.98.207.72
+Protocol: UDP
+Source Port: 5001
+Destination Port: 51286
+Packet Size: 57 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:53
+Packet Number: 231
+Source IP: 10.98.207.72
+Destination IP: 188.34.137.211
+Protocol: UDP
+Source Port: 51286
+Destination Port: 5001
+Packet Size: 61 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:53
+Packet Number: 232
+Source IP: 10.98.207.72
+Destination IP: 13.248.169.48
+Protocol: TCP
+Source Port: 59558
+Destination Port: 1688
+Packet Size: 52 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:54
+Packet Number: 233
+Source IP: 10.98.207.177
+Destination IP: 224.0.0.251
+Protocol: UDP
+Source Port: 5353
+Destination Port: 5353
+Packet Size: 89 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:56
+Packet Number: 234
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 54042
+Destination Port: 53
+Packet Size: 52 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:56
+Packet Number: 235
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 56693
+Destination Port: 53
+Packet Size: 52 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:56
+Packet Number: 236
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 50780
+Destination Port: 53
+Packet Size: 52 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:56
+Packet Number: 237
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 54042
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:56
+Packet Number: 238
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 54042
+Destination Port: 53
+Packet Size: 42 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:56
+Packet Number: 239
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 54042
+Destination Port: 53
+Packet Size: 77 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:56
+Packet Number: 240
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 56693
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:56
+Packet Number: 241
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 56693
+Destination Port: 53
+Packet Size: 42 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:56
+Packet Number: 242
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 50780
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:56
+Packet Number: 243
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 56693
+Destination Port: 53
+Packet Size: 77 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:56
+Packet Number: 244
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 50780
+Destination Port: 53
+Packet Size: 42 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:56
+Packet Number: 245
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 50780
+Destination Port: 53
+Packet Size: 77 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:56
+Packet Number: 246
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 56693
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:56
+Packet Number: 247
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 56693
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:56
+Packet Number: 248
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 56693
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:56
+Packet Number: 249
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 50780
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:56
+Packet Number: 250
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 54042
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:56
+Packet Number: 251
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 50780
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:56
+Packet Number: 252
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 54042
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:56
+Packet Number: 253
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 50780
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:56
+Packet Number: 254
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 54042
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:58
+Packet Number: 255
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 50480
+Destination Port: 53
+Packet Size: 52 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:58
+Packet Number: 256
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 65146
+Destination Port: 53
+Packet Size: 52 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:58
+Packet Number: 257
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 58263
+Destination Port: 53
+Packet Size: 52 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:58
+Packet Number: 258
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 50480
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:58
+Packet Number: 259
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 50480
+Destination Port: 53
+Packet Size: 42 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:58
+Packet Number: 260
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 50480
+Destination Port: 53
+Packet Size: 76 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:58
+Packet Number: 261
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 65146
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:58
+Packet Number: 262
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 65146
+Destination Port: 53
+Packet Size: 42 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:58
+Packet Number: 263
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 65146
+Destination Port: 53
+Packet Size: 76 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:58
+Packet Number: 264
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 58263
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:58
+Packet Number: 265
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 58263
+Destination Port: 53
+Packet Size: 42 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:58
+Packet Number: 266
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 58263
+Destination Port: 53
+Packet Size: 76 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:58
+Packet Number: 267
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 58263
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:58
+Packet Number: 268
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 58263
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:58
+Packet Number: 269
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 58263
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:58
+Packet Number: 270
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 65146
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:58
+Packet Number: 271
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 50480
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:58
+Packet Number: 272
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 65146
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:58
+Packet Number: 273
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 50480
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:58
+Packet Number: 274
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 65146
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:58
+Packet Number: 275
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 50480
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:59
+Packet Number: 276
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: UDP
+Source Port: 54925
+Destination Port: 53
+Packet Size: 78 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:59
+Packet Number: 277
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: UDP
+Source Port: 62311
+Destination Port: 53
+Packet Size: 78 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:59
+Packet Number: 278
+Source IP: 10.98.207.64
+Destination IP: 10.98.207.72
+Protocol: UDP
+Source Port: 53
+Destination Port: 54925
+Packet Size: 201 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:59
+Packet Number: 279
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: UDP
+Source Port: 54925
+Destination Port: 53
+Packet Size: 78 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:59
+Packet Number: 280
+Source IP: 10.98.207.72
+Destination IP: 13.89.179.15
+Protocol: TCP
+Source Port: 58264
+Destination Port: 443
+Packet Size: 52 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:59
+Packet Number: 281
+Source IP: 10.98.207.64
+Destination IP: 10.98.207.72
+Protocol: UDP
+Source Port: 53
+Destination Port: 54925
+Packet Size: 201 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:59
+Packet Number: 282
+Source IP: 10.98.207.72
+Destination IP: 13.89.179.15
+Protocol: TCP
+Source Port: 58265
+Destination Port: 443
+Packet Size: 52 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:13:59
+Packet Number: 283
+Source IP: 10.98.207.72
+Destination IP: 13.89.179.15
+Protocol: TCP
+Source Port: 58266
+Destination Port: 443
+Packet Size: 52 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:00
+Packet Number: 284
+Source IP: 10.98.207.72
+Destination IP: 13.89.179.15
+Protocol: TCP
+Source Port: 58270
+Destination Port: 443
+Packet Size: 52 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:00
+Packet Number: 285
+Source IP: 10.98.207.72
+Destination IP: 13.89.179.15
+Protocol: TCP
+Source Port: 58271
+Destination Port: 443
+Packet Size: 52 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:00
+Packet Number: 286
+Source IP: 10.98.207.72
+Destination IP: 13.89.179.15
+Protocol: TCP
+Source Port: 58272
+Destination Port: 443
+Packet Size: 52 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:01
+Packet Number: 287
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 49374
+Destination Port: 53
+Packet Size: 52 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:01
+Packet Number: 288
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 61526
+Destination Port: 53
+Packet Size: 52 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:01
+Packet Number: 289
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 49874
+Destination Port: 53
+Packet Size: 52 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:01
+Packet Number: 290
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 49374
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:01
+Packet Number: 291
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 49374
+Destination Port: 53
+Packet Size: 42 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:01
+Packet Number: 292
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 49374
+Destination Port: 53
+Packet Size: 76 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:01
+Packet Number: 293
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 61526
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:01
+Packet Number: 294
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 49874
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:01
+Packet Number: 295
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 49874
+Destination Port: 53
+Packet Size: 42 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:01
+Packet Number: 296
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 49874
+Destination Port: 53
+Packet Size: 76 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:01
+Packet Number: 297
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 61526
+Destination Port: 53
+Packet Size: 42 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:01
+Packet Number: 298
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 61526
+Destination Port: 53
+Packet Size: 76 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:01
+Packet Number: 299
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 49374
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:01
+Packet Number: 300
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 49374
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:01
+Packet Number: 301
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 49374
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:01
+Packet Number: 302
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 61526
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:01
+Packet Number: 303
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 49874
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:01
+Packet Number: 304
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 61526
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:01
+Packet Number: 305
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 49874
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:01
+Packet Number: 306
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 61526
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:01
+Packet Number: 307
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 49874
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:01
+Packet Number: 308
+Source IP: 10.98.207.72
+Destination IP: 13.248.169.48
+Protocol: TCP
+Source Port: 59558
+Destination Port: 1688
+Packet Size: 52 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:01
+Packet Number: 309
+Source IP: 10.98.207.72
+Destination IP: 32.198.218.205
+Protocol: TCP
+Source Port: 55755
+Destination Port: 443
+Packet Size: 52 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:02
+Packet Number: 310
+Source IP: 10.98.207.72
+Destination IP: 13.89.179.15
+Protocol: TCP
+Source Port: 55756
+Destination Port: 443
+Packet Size: 52 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:03
+Packet Number: 311
+Source IP: 149.102.231.164
+Destination IP: 10.98.207.72
+Protocol: UDP
+Source Port: 5001
+Destination Port: 51288
+Packet Size: 57 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:03
+Packet Number: 312
+Source IP: 10.98.207.72
+Destination IP: 149.102.231.164
+Protocol: UDP
+Source Port: 51288
+Destination Port: 5001
+Packet Size: 61 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:03
+Packet Number: 313
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: UDP
+Source Port: 54925
+Destination Port: 53
+Packet Size: 78 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:03
+Packet Number: 314
+Source IP: 10.98.207.64
+Destination IP: 10.98.207.72
+Protocol: UDP
+Source Port: 53
+Destination Port: 54925
+Packet Size: 198 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:03
+Packet Number: 315
+Source IP: 10.98.207.72
+Destination IP: 20.184.175.22
+Protocol: TCP
+Source Port: 55758
+Destination Port: 443
+Packet Size: 52 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:03
+Packet Number: 316
+Source IP: 188.34.137.211
+Destination IP: 10.98.207.72
+Protocol: UDP
+Source Port: 5001
+Destination Port: 51286
+Packet Size: 57 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:03
+Packet Number: 317
+Source IP: 10.98.207.72
+Destination IP: 188.34.137.211
+Protocol: UDP
+Source Port: 51286
+Destination Port: 5001
+Packet Size: 61 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:07
+Packet Number: 318
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 61699
+Destination Port: 53
+Packet Size: 52 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:07
+Packet Number: 319
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 57661
+Destination Port: 53
+Packet Size: 52 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:07
+Packet Number: 320
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 62542
+Destination Port: 53
+Packet Size: 52 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:07
+Packet Number: 321
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 62542
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:08
+Packet Number: 322
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 61198
+Destination Port: 53
+Packet Size: 52 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:08
+Packet Number: 323
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 61758
+Destination Port: 53
+Packet Size: 52 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:08
+Packet Number: 324
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 58828
+Destination Port: 53
+Packet Size: 52 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:08
+Packet Number: 325
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 61699
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:08
+Packet Number: 326
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 57661
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:08
+Packet Number: 327
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 62542
+Destination Port: 53
+Packet Size: 42 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:08
+Packet Number: 328
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 62542
+Destination Port: 53
+Packet Size: 86 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:08
+Packet Number: 329
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 61699
+Destination Port: 53
+Packet Size: 42 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:08
+Packet Number: 330
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 61699
+Destination Port: 53
+Packet Size: 86 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:08
+Packet Number: 331
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 57661
+Destination Port: 53
+Packet Size: 42 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:08
+Packet Number: 332
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 57661
+Destination Port: 53
+Packet Size: 86 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:08
+Packet Number: 333
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 61758
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:08
+Packet Number: 334
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 61758
+Destination Port: 53
+Packet Size: 42 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:08
+Packet Number: 335
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 61758
+Destination Port: 53
+Packet Size: 74 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:08
+Packet Number: 336
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 61198
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:08
+Packet Number: 337
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 61198
+Destination Port: 53
+Packet Size: 42 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:08
+Packet Number: 338
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 58828
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:08
+Packet Number: 339
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 61198
+Destination Port: 53
+Packet Size: 74 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:08
+Packet Number: 340
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 58828
+Destination Port: 53
+Packet Size: 42 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:08
+Packet Number: 341
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 58828
+Destination Port: 53
+Packet Size: 74 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:08
+Packet Number: 342
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 62542
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:08
+Packet Number: 343
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 62542
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:08
+Packet Number: 344
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 62542
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:08
+Packet Number: 345
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 61699
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:08
+Packet Number: 346
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 61699
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:08
+Packet Number: 347
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 61699
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:08
+Packet Number: 348
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 61054
+Destination Port: 53
+Packet Size: 52 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:08
+Packet Number: 349
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 61198
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:08
+Packet Number: 350
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 58828
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:08
+Packet Number: 351
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 57661
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:08
+Packet Number: 352
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 61758
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:08
+Packet Number: 353
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 60191
+Destination Port: 53
+Packet Size: 52 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:08
+Packet Number: 354
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 60444
+Destination Port: 53
+Packet Size: 52 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:08
+Packet Number: 355
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 61054
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:08
+Packet Number: 356
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 61054
+Destination Port: 53
+Packet Size: 42 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:08
+Packet Number: 357
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 61054
+Destination Port: 53
+Packet Size: 76 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:08
+Packet Number: 358
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 61198
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:08
+Packet Number: 359
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 58828
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:08
+Packet Number: 360
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 60191
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:08
+Packet Number: 361
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 60191
+Destination Port: 53
+Packet Size: 42 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:08
+Packet Number: 362
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 60191
+Destination Port: 53
+Packet Size: 76 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:08
+Packet Number: 363
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 60444
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:08
+Packet Number: 364
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 57661
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:08
+Packet Number: 365
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 60444
+Destination Port: 53
+Packet Size: 42 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:08
+Packet Number: 366
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 60444
+Destination Port: 53
+Packet Size: 76 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:08
+Packet Number: 367
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 61758
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:08
+Packet Number: 368
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 61198
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:08
+Packet Number: 369
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 57661
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:08
+Packet Number: 370
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 61758
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:08
+Packet Number: 371
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 58828
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:08
+Packet Number: 372
+Source IP: 10.98.207.72
+Destination IP: 3.232.49.104
+Protocol: TCP
+Source Port: 53504
+Destination Port: 443
+Packet Size: 52 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:08
+Packet Number: 373
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 60191
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:08
+Packet Number: 374
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 61054
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:08
+Packet Number: 375
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 60191
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:08
+Packet Number: 376
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 61054
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:08
+Packet Number: 377
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 60191
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:08
+Packet Number: 378
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 61054
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:08
+Packet Number: 379
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 60444
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:08
+Packet Number: 380
+Source IP: 10.98.207.72
+Destination IP: 172.67.156.181
+Protocol: TCP
+Source Port: 52557
+Destination Port: 443
+Packet Size: 68 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:08
+Packet Number: 381
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 60444
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:08
+Packet Number: 382
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 60444
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:08
+Packet Number: 383
+Source IP: 10.98.207.72
+Destination IP: 98.86.38.240
+Protocol: TCP
+Source Port: 57152
+Destination Port: 443
+Packet Size: 52 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:08
+Packet Number: 384
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: UDP
+Source Port: 54925
+Destination Port: 53
+Packet Size: 62 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:08
+Packet Number: 385
+Source IP: 10.98.207.64
+Destination IP: 10.98.207.72
+Protocol: UDP
+Source Port: 53
+Destination Port: 54925
+Packet Size: 94 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:08
+Packet Number: 386
+Source IP: 10.98.207.72
+Destination IP: 3.232.49.104
+Protocol: TCP
+Source Port: 53504
+Destination Port: 443
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:08
+Packet Number: 387
+Source IP: 10.98.207.72
+Destination IP: 3.232.49.104
+Protocol: TCP
+Source Port: 53504
+Destination Port: 443
+Packet Size: 2257 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:08
+Packet Number: 388
+Source IP: 10.98.207.72
+Destination IP: 3.232.49.104
+Protocol: TCP
+Source Port: 53095
+Destination Port: 443
+Packet Size: 52 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:08
+Packet Number: 389
+Source IP: 10.98.207.72
+Destination IP: 3.232.49.104
+Protocol: TCP
+Source Port: 53504
+Destination Port: 443
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:08
+Packet Number: 390
+Source IP: 10.98.207.72
+Destination IP: 3.232.49.104
+Protocol: TCP
+Source Port: 53504
+Destination Port: 443
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:08
+Packet Number: 391
+Source IP: 10.98.207.72
+Destination IP: 3.232.49.104
+Protocol: TCP
+Source Port: 53504
+Destination Port: 443
+Packet Size: 104 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:08
+Packet Number: 392
+Source IP: 10.98.207.72
+Destination IP: 3.232.49.104
+Protocol: TCP
+Source Port: 53504
+Destination Port: 443
+Packet Size: 132 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:08
+Packet Number: 393
+Source IP: 10.98.207.72
+Destination IP: 3.232.49.104
+Protocol: TCP
+Source Port: 53504
+Destination Port: 443
+Packet Size: 377 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:08
+Packet Number: 394
+Source IP: 10.98.207.72
+Destination IP: 3.232.49.104
+Protocol: TCP
+Source Port: 53504
+Destination Port: 443
+Packet Size: 588 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:08
+Packet Number: 395
+Source IP: 10.98.207.72
+Destination IP: 3.232.49.104
+Protocol: TCP
+Source Port: 53504
+Destination Port: 443
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:08
+Packet Number: 396
+Source IP: 10.98.207.72
+Destination IP: 3.232.49.104
+Protocol: TCP
+Source Port: 53504
+Destination Port: 443
+Packet Size: 71 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:09
+Packet Number: 397
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 59874
+Destination Port: 53
+Packet Size: 52 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:09
+Packet Number: 398
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 60976
+Destination Port: 53
+Packet Size: 52 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:09
+Packet Number: 399
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 58781
+Destination Port: 53
+Packet Size: 52 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:09
+Packet Number: 400
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 59874
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:09
+Packet Number: 401
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 59874
+Destination Port: 53
+Packet Size: 42 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:09
+Packet Number: 402
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 59874
+Destination Port: 53
+Packet Size: 89 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:09
+Packet Number: 403
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 60976
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:09
+Packet Number: 404
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 60976
+Destination Port: 53
+Packet Size: 42 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:09
+Packet Number: 405
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 60976
+Destination Port: 53
+Packet Size: 89 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:09
+Packet Number: 406
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 58781
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:09
+Packet Number: 407
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 58781
+Destination Port: 53
+Packet Size: 42 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:09
+Packet Number: 408
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 58781
+Destination Port: 53
+Packet Size: 89 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:09
+Packet Number: 409
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 59874
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:09
+Packet Number: 410
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 58781
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:09
+Packet Number: 411
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 60976
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:09
+Packet Number: 412
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 59874
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:09
+Packet Number: 413
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 58781
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:09
+Packet Number: 414
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 60976
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:09
+Packet Number: 415
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 59874
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:09
+Packet Number: 416
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 58781
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:09
+Packet Number: 417
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 60976
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:13
+Packet Number: 418
+Source IP: 10.98.207.230
+Destination IP: 224.0.0.251
+Protocol: UDP
+Source Port: 5353
+Destination Port: 5353
+Packet Size: 89 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:13
+Packet Number: 419
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 51489
+Destination Port: 53
+Packet Size: 52 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:13
+Packet Number: 420
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 61049
+Destination Port: 53
+Packet Size: 52 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:13
+Packet Number: 421
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 55268
+Destination Port: 53
+Packet Size: 52 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:13
+Packet Number: 422
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 51489
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:13
+Packet Number: 423
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 51489
+Destination Port: 53
+Packet Size: 42 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:13
+Packet Number: 424
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 51489
+Destination Port: 53
+Packet Size: 69 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:13
+Packet Number: 425
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 61049
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:13
+Packet Number: 426
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 61049
+Destination Port: 53
+Packet Size: 42 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:13
+Packet Number: 427
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 55268
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:13
+Packet Number: 428
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 61049
+Destination Port: 53
+Packet Size: 69 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:13
+Packet Number: 429
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 55268
+Destination Port: 53
+Packet Size: 42 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:13
+Packet Number: 430
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 55268
+Destination Port: 53
+Packet Size: 69 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:13
+Packet Number: 431
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 55268
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:13
+Packet Number: 432
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 51489
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:13
+Packet Number: 433
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 61049
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:13
+Packet Number: 434
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 55268
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:13
+Packet Number: 435
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 51489
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:13
+Packet Number: 436
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 61049
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:13
+Packet Number: 437
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 55268
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:13
+Packet Number: 438
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 51489
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:13
+Packet Number: 439
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: TCP
+Source Port: 61049
+Destination Port: 53
+Packet Size: 40 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:13
+Packet Number: 440
+Source IP: 149.102.231.164
+Destination IP: 10.98.207.72
+Protocol: UDP
+Source Port: 5001
+Destination Port: 51288
+Packet Size: 57 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:13
+Packet Number: 441
+Source IP: 10.98.207.72
+Destination IP: 149.102.231.164
+Protocol: UDP
+Source Port: 51288
+Destination Port: 5001
+Packet Size: 61 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:14
+Packet Number: 442
+Source IP: 188.34.137.211
+Destination IP: 10.98.207.72
+Protocol: UDP
+Source Port: 5001
+Destination Port: 51286
+Packet Size: 57 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:14
+Packet Number: 443
+Source IP: 10.98.207.72
+Destination IP: 188.34.137.211
+Protocol: UDP
+Source Port: 51286
+Destination Port: 5001
+Packet Size: 61 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:14
+Packet Number: 444
+Source IP: 10.98.207.72
+Destination IP: 10.98.207.64
+Protocol: UDP
+Source Port: 54925
+Destination Port: 53
+Packet Size: 84 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:14
+Packet Number: 445
+Source IP: 10.98.207.177
+Destination IP: 224.0.0.251
+Protocol: UDP
+Source Port: 5353
+Destination Port: 5353
+Packet Size: 89 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:14
+Packet Number: 446
+Source IP: 10.98.207.72
+Destination IP: 140.82.112.21
+Protocol: TCP
+Source Port: 55269
+Destination Port: 443
+Packet Size: 52 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:19
+Packet Number: 447
+Source IP: 10.98.207.72
+Destination IP: 172.67.156.181
+Protocol: TCP
+Source Port: 52557
+Destination Port: 443
+Packet Size: 68 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:23
+Packet Number: 448
+Source IP: 10.98.207.72
+Destination IP: 172.67.156.181
+Protocol: TCP
+Source Port: 52557
+Destination Port: 443
+Packet Size: 68 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:23
+Packet Number: 449
+Source IP: 149.102.231.164
+Destination IP: 10.98.207.72
+Protocol: UDP
+Source Port: 5001
+Destination Port: 51288
+Packet Size: 57 bytes
+----------------------------------------
+----------------------------------------
+Time: 2026-11-20 14:14:23
+Packet Number: 450
+Source IP: 10.98.207.72
+Destination IP: 149.102.231.164
+Protocol: UDP
+Source Port: 51288
+Destination Port: 5001
+Packet Size: 61 bytes
+----------------------------------------
+
+========== TRAFFIC SUMMARY ==========
+Total Packets: 450
+TCP: 410
+UDP: 40
+=====================================
